@@ -6,6 +6,6 @@ Once you have these technologies installed, you can simply download and run usin
 
 node server.js
 
-and open a tab with the following url:
+and open a tab on that machine with the following url to render the page:
 
 http://localhost:3000
